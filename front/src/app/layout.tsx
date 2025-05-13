@@ -20,7 +20,7 @@ export default function RootLayout({
   return (
     <WalletAdapterProvider>
       <UmiProvider>
-        <html lang="en">
+        <html lang="en" className="dark" style={{ colorScheme: "dark" }}>
           <body className={inter.className}>
             <ThemeProviderWrapper>{children}</ThemeProviderWrapper>
           </body>
