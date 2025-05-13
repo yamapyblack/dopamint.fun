@@ -1,15 +1,12 @@
-# solana-gacha
+## dopamint.fun nft
 
-To install dependencies:
+Install sugar:
 
-```bash
-bun install
-```
-
-To run:
+[https://developers.metaplex.com/candy-machine/sugar/installation](https://developers.metaplex.com/candy-machine/sugar/installation)
 
 ```bash
-bun run index.ts
+delete cache.json
+sugar launch
+sugar guard add
+sugar guard show
 ```
-
-This project was created using `bun init` in bun v1.0.26. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
