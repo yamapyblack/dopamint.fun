@@ -1,0 +1,31 @@
+{
+  "tokenStandard": "nft",
+  "number": 12,
+  "symbol": "MYNFT",
+  "sellerFeeBasisPoints": 500,
+  "isMutable": true,
+  "isSequential": false,
+  "creators": [
+    {
+      "address": "HmoLizitD9bEv6UpX86dCZb3kDf9JM4qT62cEBR4nGBA",
+      "share": 100
+    }
+  ],
+  "uploadMethod": "bundlr",
+  "ruleSet": null,
+  "awsConfig": null,
+  "sdriveApiKey": null,
+  "nftStorageAuthToken": null,
+  "shdwStorageAccount": null,
+  "pinataConfig": null,
+  "hiddenSettings": null,
+  "guards": {
+    "default": {
+      "solPayment": {
+        "value": 0.0001,
+        "destination": "HmoLizitD9bEv6UpX86dCZb3kDf9JM4qT62cEBR4nGBA"
+      }
+    }
+  },
+  "maxEditionSupply": null
+}

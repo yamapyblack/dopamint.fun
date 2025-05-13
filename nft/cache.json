@@ -1,0 +1,114 @@
+{
+  "program": {
+    "candyMachine": "BAQLdcs298f4NjMxunisFH1tPQbhNBWcDcRkXgRxkoAx",
+    "candyGuard": "7UzarWSJ63Gxr46XPHQYtZefHoLP8LWF8DHQAvdSAPm1",
+    "candyMachineCreator": "HUUGAhZizDqizgPAEMau9w4hbe2N7Up6cf52d4yvCnZq",
+    "collectionMint": "EQm4qexaBteZUJosv3MiyKrV9JAfbekcT2zrxu6V6AYa"
+  },
+  "items": {
+    "-1": {
+      "name": "My Gacha Collection",
+      "image_hash": "d32ac8d9f50d3573f2abd8b815662cfc5a4c4741161da1778782b8175e02d3f5",
+      "image_link": "https://gateway.irys.xyz/4k8gR6ZyirKxqXhfD1aXdGttgNQsnXm63fsUvFJ9tx59?ext=png",
+      "metadata_hash": "c8fdc4a7737929fc7f68e737558152ee18e926b285d5730aaad49142561ee7ef",
+      "metadata_link": "https://gateway.irys.xyz/Hbsbqs1nfyUtGyFni2ky5guwaqr7yjHb6rDLU69raRAc",
+      "onChain": true
+    },
+    "0": {
+      "name": "My NFT #0",
+      "image_hash": "35b8982365775096f3028505698dac1415a977c3421fffeb9333b129a6d64a1e",
+      "image_link": "https://solana-gacha-devnet.s3.ap-northeast-1.amazonaws.com/images/0.png",
+      "metadata_hash": "a6a0145027bb286afa7e6e6698c36736a1367fea6d02462e6951ccc6c3fa3ed3",
+      "metadata_link": "https://gateway.irys.xyz/4BjHL6MMznAfFW8ree5rzTaMbaAgyrD21Ve7XR7JgYSY",
+      "onChain": true
+    },
+    "1": {
+      "name": "My NFT #1",
+      "image_hash": "d22d217e097b6fe0b31c45791aeb3c0d107d7d277e993544470eb97202d7e657",
+      "image_link": "https://solana-gacha-devnet.s3.ap-northeast-1.amazonaws.com/images/1.png",
+      "metadata_hash": "2a269011a4bfe8ae4d89cc42765bf45abc51e2da1447b68e1d0d9f86f550ac34",
+      "metadata_link": "https://gateway.irys.xyz/7NjXhJCjzxSWFSJfPQPNVKBbvgL53jKVPqpz1pbM96Eu",
+      "onChain": true
+    },
+    "2": {
+      "name": "My NFT #2",
+      "image_hash": "640020b70c06c4961f20893612451d15811cb1086616b3be2464a405b81909c1",
+      "image_link": "https://solana-gacha-devnet.s3.ap-northeast-1.amazonaws.com/images/2.png",
+      "metadata_hash": "47539f3ece11d588d55b02211b45bccd64a20f28267b919921d27454299b149b",
+      "metadata_link": "https://gateway.irys.xyz/7wsTzSQxa5hDSFu9jNPYimGsv2spvamqoUxAuyXhgN7P",
+      "onChain": true
+    },
+    "3": {
+      "name": "My NFT #3",
+      "image_hash": "2f1fe158cb263bbaecf2862f1078af1ca839d18203c85e3a550647726be9e399",
+      "image_link": "https://solana-gacha-devnet.s3.ap-northeast-1.amazonaws.com/images/3.png",
+      "metadata_hash": "87b0e17faf48338acec4c0c9b02ae09c59f0e0f7394c6e880eec39fd05ce8ef6",
+      "metadata_link": "https://gateway.irys.xyz/HPn31TNvzD6qX62u2MHsVt3Z2Ckipzu4xrairokuvh2q",
+      "onChain": true
+    },
+    "4": {
+      "name": "My NFT #4",
+      "image_hash": "7435ff1c248dad17e06e74ea967e14f06b1d0931869eca1f2a1ae7380fb77c0d",
+      "image_link": "https://solana-gacha-devnet.s3.ap-northeast-1.amazonaws.com/images/4.png",
+      "metadata_hash": "4369a74ac9dcfb59bebb479a187f561a03fbcdc0fdf9e4dac649b529a4752de9",
+      "metadata_link": "https://gateway.irys.xyz/FU5y3nWnmU8fgBUJrcizwqoTJei3hzg8Q2fWCdKoKc8L",
+      "onChain": true
+    },
+    "5": {
+      "name": "My NFT #5",
+      "image_hash": "0fec86ba0a7ab355d2b0fa35e9e5a5b101c7b1c55f04eb710cce671b3f131032",
+      "image_link": "https://solana-gacha-devnet.s3.ap-northeast-1.amazonaws.com/images/5.png",
+      "metadata_hash": "665a3804e343c2e3b76e5aefea5140069cb11b6bad9112eac91cf0cc12c26e74",
+      "metadata_link": "https://gateway.irys.xyz/2TKoHmURRrchwUW7Yio8AZ8Vgg5xjrDNpmcjW8Jdu9PN",
+      "onChain": true
+    },
+    "6": {
+      "name": "My NFT #6",
+      "image_hash": "691c502e6ce9dfe03f6edf8b96f766cab2ffeee73dda05a3dc0debfee8946318",
+      "image_link": "https://solana-gacha-devnet.s3.ap-northeast-1.amazonaws.com/images/6.png",
+      "metadata_hash": "beda5708e558ca92d12f8d00032fd586d392f13278ad8d81198141265cb344f6",
+      "metadata_link": "https://gateway.irys.xyz/4nm8kpWJgzirKyTKNDbBPSjaTwU6RvrBNPh8acHjcExM",
+      "onChain": true
+    },
+    "7": {
+      "name": "My NFT #7",
+      "image_hash": "43e26e57379949eee95a02cc4628a35f876306c02ed0fb26b4fd19433ca57239",
+      "image_link": "https://solana-gacha-devnet.s3.ap-northeast-1.amazonaws.com/images/7.png",
+      "metadata_hash": "6562b8dbdade493236bd9af54c7d0abb197492bce03b4a4a290b421ac9e87565",
+      "metadata_link": "https://gateway.irys.xyz/GNEoraDrvFfSjYjLX9tgYs8eWDkuWF1mjRkPykhnMEAC",
+      "onChain": true
+    },
+    "8": {
+      "name": "My NFT #8",
+      "image_hash": "f8d1d2e43a18f427090b1e88cefe2d3df8d419c62785d287090c1ae5b657fb28",
+      "image_link": "https://solana-gacha-devnet.s3.ap-northeast-1.amazonaws.com/images/8.png",
+      "metadata_hash": "f64f452a451a96f6a671c49fd14d43023842c9af8ae9011b7af786de409d1a41",
+      "metadata_link": "https://gateway.irys.xyz/B829yt9UvXfFzRn1F2wx5FHm7pgyA42xZAsLMKtNCStH",
+      "onChain": true
+    },
+    "9": {
+      "name": "My NFT #9",
+      "image_hash": "d24006dfaca84ddab0e5d84a6b5a173cbd221a5dea290934790fc79824b9d1d7",
+      "image_link": "https://solana-gacha-devnet.s3.ap-northeast-1.amazonaws.com/images/9.png",
+      "metadata_hash": "b48fe8a2c27e2c30e55bff5f3f3c5e3d27e751a12ba796beaa19c15168d9a1d5",
+      "metadata_link": "https://gateway.irys.xyz/Frj2WBtti36oQsKWdhVE6zL93MpkZgm12vyaw48fKoMp",
+      "onChain": true
+    },
+    "10": {
+      "name": "My NFT #10",
+      "image_hash": "84a61ad419e97dad9b2337f86bb5d2724e0e9500358772f3ff58d230adbf000c",
+      "image_link": "https://solana-gacha-devnet.s3.ap-northeast-1.amazonaws.com/images/10.png",
+      "metadata_hash": "3fa1ba4b93789e123b858f407e9fef83a30bacea73db8cb4d577165808268792",
+      "metadata_link": "https://gateway.irys.xyz/71oceVVzvhhrUxufVw77dHvUEhhCJPgvJMa9QW13Uczi",
+      "onChain": true
+    },
+    "11": {
+      "name": "My NFT #11",
+      "image_hash": "b7ee5782691130e19f0a91096bd1efb54f34b5ab9aabf0d6ed7385d60bc1e44a",
+      "image_link": "https://solana-gacha-devnet.s3.ap-northeast-1.amazonaws.com/images/11.png",
+      "metadata_hash": "e202cae765687f15755f96bc5ef17d609e4407c9bddd69ec509aca19b2ac952f",
+      "metadata_link": "https://gateway.irys.xyz/jipWhzjwq3XSMpHbfZpQH2D95CCCRZ6DTkamVzHo1cS",
+      "onChain": true
+    }
+  }
+}

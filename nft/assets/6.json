@@ -1,0 +1,26 @@
+{
+  "name": "My NFT #6",
+  "symbol": "MYNFT",
+  "description": "ガチャコレクションのNFTです。",
+  "seller_fee_basis_points": 500,
+  "image": "https://solana-gacha-devnet.s3.ap-northeast-1.amazonaws.com/images/6.png",
+  "attributes": [
+    { "trait_type": "背景", "value": "赤" },
+    { "trait_type": "キャラ", "value": "TypeG" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "6.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "HmoLizitD9bEv6UpX86dCZb3kDf9JM4qT62cEBR4nGBA",
+        "share": 100
+      }
+    ]
+  }
+}

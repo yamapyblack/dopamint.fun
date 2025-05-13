@@ -1,0 +1,23 @@
+{
+  "name": "My Gacha Collection",
+  "symbol": "MYNFT",
+  "description": "ガチャ形式でランダムにNFTを配布するコレクションです。",
+  "seller_fee_basis_points": 500,
+  "image": "collection.png",
+  "attributes": [{ "trait_type": "Edition", "value": "Genesis" }],
+  "properties": {
+    "files": [
+      {
+        "uri": "collection.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "HmoLizitD9bEv6UpX86dCZb3kDf9JM4qT62cEBR4nGBA",
+        "share": 100
+      }
+    ]
+  }
+}
