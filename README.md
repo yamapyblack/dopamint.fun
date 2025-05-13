@@ -1,58 +1,39 @@
 # dopamint.fun
 
-Gacha-style NFT reveals.
-Turning NFT minting into a dopamine experience
+dopamint.fun turns boring NFT minting into a thrilling FOMO game.
 
 NFT ≠ JPEG
 NFT = dopamine🧠
 
-## Problem
+## Vision
+Change boring NFT minting into a thrilling FOMO game.
 
-NFTs aren’t going viral. Here’s why
-1. Reveal has cooldowns → no moment to share
-2. Drops look boring → no visual punch
-3. No big wins → No thrill, no FOMO
+## Problem
+1. **No instant reveals**  
+   You have to wait before you can see your NFT, and that waiting kills the thrill and breaks the hype.  
+2. **No clear win or loss**  
+   You pay to mint but don’t know if you got something rare or just a common NFT. Mints feel flat—no thrill, no FOMO.  
+3. **Low liquidity**  
+   If you miss out on a rare drop, you can’t sell or trade right away—you’re stuck waiting for a buyer.
 
 ## Solution
+✅Gacha-style, on-chain minting that fixes all these problems. When you mint, you see the result instantly on the blockchain and can trade right away.
 
-1. Real-time reveals → no waiting, just action
-2. Cinematic animations → reveals worth sharing
-3. Big wins and big misses → FOMO that spreads
+## Demo
+Watch a one-minute demo of dopamint.fun in action:  
+[▶️ One-minute demo](https://drive.google.com/file/d/1OnWk_5hCh0T3mYDIsmRV5kHyOvKGopHQ/view?usp=drive_link)
 
+## Key Features
+- ✅**Instant on-chain reveals**  
+  Powered by Metaplex Candy Machine, wins and losses are shown the moment you mint, creating safe FOMO and viral short videos.  
+- ✅**Hybrid NFT/FT liquidity**  
+  Powered by Metaplex MPL-404, every minted asset can be sold or traded immediately—making users eager to mint again.
 
-## Technology Overview
-
-dopamint.fun ensures fairness, transparency, and tamper-resistance through two key mechanisms: Proof of Integrity (PoL) and Verifiable Random Function (VRF).
-
-### Proof of Integrity (PoL)
-
-We use a **commit-reveal scheme** to ensure that each NFT is tied immutably to a specific metadata fingerprint.
-
-- Each NFT's metadata (image, name, rarity) is summarized into a **fingerprint string**.
-- A random **salt** is added to the fingerprint before minting.
-- The fingerprint + salt is hashed using **keccak256**, and the resulting hash is used as the **token ID** (commit phase).
-- After minting, the original fingerprint + salt is revealed (reveal phase), allowing anyone to verify that the token was not tampered with.
-
-This approach ensures that metadata cannot be changed post-mint, and any attempt to forge or alter an NFT will result in a mismatch during verification.
-
-> ✅ Immutable  
-> ✅ Onchain-verifiable  
-> ✅ Tamper-proof
+## Roadmap
+1. Launch v1 with limited partner collections  
+2. Open the platform for custom dopamint.fun deployments  
+3. Expand to multiple blockchains
 
 ---
 
-### Verifiable Random Function (VRF)
-
-All randomness used in DOPAMINT — especially for determining NFT rarity or reveal order — is powered by a **Verifiable Random Function**.
-
-- Random values are generated using **Chainlink VRF** or an equivalent secure oracle.
-- Every gacha pull is cryptographically secured and verifiable onchain.
-- This eliminates the possibility of manipulation, both by creators and users.
-
-> ✅ Fair  
-> ✅ Trustless  
-> ✅ Transparent
-
----
-
-Together, PoL and VRF provide the technical foundation for secure, hype-driven, and shareable gacha NFT experiences on dopamint.fun.
+Let’s make minting exciting again!  
