@@ -1,4 +1,4 @@
-# dopamint.fun
+## dopamint.fun frontend
 
 A simple sample project using Next.js and npm 😊
 
