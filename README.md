@@ -25,9 +25,12 @@ Watch a one-minute demo of dopamint.fun in action:
 
 ## Key Features
 - ✅**Instant on-chain reveals**  
-  Powered by Metaplex Candy Machine, wins and losses are shown the moment you mint, creating safe FOMO and viral short videos.  
+  Powered by Metaplex Candy Machine, wins and losses are shown the moment you mint, creating safe FOMO and viral short videos.
+  [https://developers.metaplex.com/core-candy-machine](https://developers.metaplex.com/core-candy-machine)
+
 - ✅**Hybrid NFT/FT liquidity**  
   Powered by Metaplex MPL-404, every minted asset can be sold or traded immediately—making users eager to mint again.
+  [https://developers.metaplex.com/mpl-hybrid/guides](https://developers.metaplex.com/mpl-hybrid/guides)
 
 ## Roadmap
 1. Launch v1 with limited partner collections  
