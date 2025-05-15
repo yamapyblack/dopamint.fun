@@ -26,20 +26,15 @@ export default function MintPage() {
   };
 
   const handleShare = async () => {
-    const shareData = {
-      title: "Dopamint.fun",
-      text: "I just minted my NFT on Dopamint.fun!",
-      url: window.location.href,
-    };
+    const tweetText = encodeURIComponent(
+      "I just minted my NFT on @dopamintdotfun #dopamint"
+    );
+    const tweetUrl = `https://twitter.com/intent/tweet?text=${tweetText}&url=${encodeURIComponent(
+      window.location.origin
+    )}`;
 
     try {
-      if (navigator.share) {
-        await navigator.share(shareData);
-      } else {
-        // Fallback for browsers that don't support Web Share API
-        await navigator.clipboard.writeText(window.location.href);
-        alert("URL copied to clipboard!");
-      }
+      window.open(tweetUrl, "_blank");
     } catch (error) {
       console.error("Error sharing:", error);
     }

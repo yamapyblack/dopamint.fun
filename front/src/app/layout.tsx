@@ -10,6 +10,20 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "dopamint.fun",
   description: "dopamint.fun is turning NFT minting into a dopamine experience",
+  twitter: {
+    card: "summary_large_image",
+    title: "dopamint.fun",
+    description:
+      "dopamint.fun is turning NFT minting into a dopamine experience",
+    creator: "@dopamintdotfun",
+    images: ["https://dopamint-fun.vercel.app/twitter-og-image.png"], // You'll need to replace this with your actual image URL
+  },
+  openGraph: {
+    title: "dopamint.fun",
+    description:
+      "dopamint.fun is turning NFT minting into a dopamine experience",
+    images: ["https://dopamint-fun.vercel.app/twitter-og-image.png"], // You'll need to replace this with your actual image URL
+  },
 };
 
 export default function RootLayout({

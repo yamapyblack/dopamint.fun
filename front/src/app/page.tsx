@@ -18,7 +18,7 @@ export default function Home() {
           </Link>
           <div className="flex items-center gap-6">
             <a
-              href="https://twitter.com/dopamint"
+              href="https://twitter.com/dopamintdotfun"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-[#FFD700] hover:bg-[#e6c200] text-[#0A192F] font-bold py-2 px-6 rounded-full text-sm transition-colors flex items-center gap-2"

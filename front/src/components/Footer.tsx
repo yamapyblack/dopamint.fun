@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="max-w-6xl mx-auto relative">
         <div className="absolute left-0 top-1/2 -translate-y-1/2">
           <a
-            href="https://twitter.com/dopamint"
+            href="https://twitter.com/dopamintdotfun"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-purple-400 transition-colors"
